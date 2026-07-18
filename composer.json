@@ -1,0 +1,19 @@
+{
+    "name": "scarecrow88/rest_api_login_register_crud",
+    "description": "REST API Login Register CRUD sin emplear ningun framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scarecrow88\\RestApiLoginRegisterCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Scarecrow88",
+            "email": "deadman66698@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

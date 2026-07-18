@@ -1,0 +1,9 @@
+{
+    "connection": {
+        "host": "localhost",
+        "user": "root",
+        "password": "XXXXXXXXXXXXX",
+        "database": "LOGINREGISTERCRUDV1",
+        "port": "3306"
+    }
+}
